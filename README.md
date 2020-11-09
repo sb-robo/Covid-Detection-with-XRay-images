@@ -13,6 +13,7 @@ In this project I have only used 2 types of images.
 	- seaborn
 	- numpy
 	- pandas
+	- jupyter notebook
 
 - Class Activation Maps(CAM):
 Class Activation Maps for a particular category indicates the discriminative region used by CNN to identify the category. CAM is one of the most popular visualization among CNN visualization. More about Class Activation Maps: https://towardsdatascience.com/demystifying-convolutional-neural-networks-using-class-activation-maps-fe94eda4cef1

@@ -40,7 +40,7 @@ You can download the pretrained COVID-Next model from [here](https://drive.googl
 
 ### Results
 
-he following results were obtained on the dataset used in the original repo as of March 20 2020.
+This Model has trained on Total - 273 images and tested on total - 64 images
 |                   | Accuracy 	| F1 	| Precision | Recall 	|
 |:-----------------:|:---------:|:-----:|:---------:|:---------:|
 | CNN 				| 97.06		| -		| -			| -			|

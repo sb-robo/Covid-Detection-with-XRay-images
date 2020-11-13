@@ -1,6 +1,6 @@
 # Covid Detection with XRay Images
 
-Project summary: This project is a classification project on X-ray and CT images. This project is build to detect whether the patient is covid positive or not. A common Dataset has build by merging to datasets for this project . One dataset contains all types of Covid cases images ( `COVID-19`, `SARS`, `MARS`, `ARDS`) and another dataset contains Non-covid X-ray images (`Normal`, `Pneumonia`)
+**Project summary:** This project is a classification project on X-ray and CT images. This project is build to detect whether the patient is covid positive or not. A common Dataset has build by merging to datasets for this project . One dataset contains all types of **Covid** X-ray images ( `COVID-19`, `SARS`, `MARS`, `ARDS`) and another dataset contains **Non-covid** X-ray images (`Normal`, `Pneumonia`)
 
 In this project, we will use only 2 image class .
 1. `Normal Cases`
